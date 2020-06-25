@@ -29,5 +29,9 @@ public static void main(String []args)
 			medio = xtem;
 		}
 		System.out.print("EL NUMERO ES "+ medio);
+/*
+* razones principales
+*/
+
 }
 }
